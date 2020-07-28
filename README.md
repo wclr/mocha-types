@@ -2,11 +2,11 @@
 
 > without globals
 
-This is just official version `@types/mocha` package with [`globals`](https://github.com/mochajs/mocha/issues/956) stripped away.
+This is just official version of `@types/mocha` package with [`globals`](https://github.com/mochajs/mocha/issues/956) stripped away.
 
 # Install
 
-Just add from github repo:
+Just install/add it from the github repo (instead of `@types/mocha` from NPM):
 
 > yarn/pnpm add github:whitecolor/mocha-types
 
