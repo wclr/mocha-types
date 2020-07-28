@@ -15,6 +15,7 @@ And enjoy.
 ```ts
 import { describe, it, beforeEach, after } from "mocha";
 
+// without explicit import typescript will show errors
 describe("Some test", () => {
   it("should work", () => {});
 });
